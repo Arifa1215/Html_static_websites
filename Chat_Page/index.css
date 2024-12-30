@@ -1,0 +1,37 @@
+body{
+    margin:0px;
+}
+.chat-bg{
+    background-image: url("chatbg.png");
+   
+}
+.chatter-name{
+    text-align:center;
+    color:#ffffff;
+    font-family: Roboto;
+    font-size:26px;
+    background-color: lightslategray;
+    font-weight:bold;      
+    padding:10px;            
+}
+.text-container{
+    padding:20px;
+}
+.message-received{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: rgb(4, 61, 4);
+    color:#ffffff;
+    padding:20px;
+    font-size:20px;
+}
+.message-sent{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: rgb(60, 61, 60);
+    color:#ffffff;
+    padding:20px;
+    font-size:20px;
+}
