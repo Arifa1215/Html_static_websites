@@ -1,0 +1,33 @@
+.bg-container{
+    background-image:url("tech.gif");
+    background-size:cover;
+    height:100vh;
+}
+.card-container{
+    text-align:center;
+    background-color: #ffffffe6;
+    /* margin:20px; */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.card-heading{
+    color:rgb(17, 185, 252);
+    font-family:"Bree Serif";
+    font-weight:bold;
+}
+.card-caption{
+    color:black;
+    font-weight:700;
+    font-family:Roboto;
+}
+.button-section{
+    margin:20px;
+}
+.button-style{
+    margin:20px;
+    border-radius: 6px;
+    padding:15px;
+    background-color: skyblue;
+    border-width: 0px;
+    font-weight:500;
+}
